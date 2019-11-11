@@ -1,3 +1,17 @@
+# Step to rund the Demo Progress Bar Code
+
+Clone the Repository
+npm install
+npm start
+open browser -  http://localhost:4200/
+
+Update the below code and re-run the npm start
+https://github.com/krish167/Angular-6-Progress-Bar-Demo/blob/master/package.json
+https://github.com/krish167/Angular-6-Progress-Bar-Demo/blob/master/angular.json
+https://github.com/krish167/Angular-6-Progress-Bar-Demo/tree/master/src/app
+https://github.com/krish167/Angular-6-Progress-Bar-Demo/blob/master/src/styles.scss
+
+
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
