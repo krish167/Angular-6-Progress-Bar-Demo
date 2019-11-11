@@ -1,8 +1,11 @@
 # Step to rund the Demo Progress Bar Code
 
 Clone the Repository
+
 npm install
+
 npm start
+
 open browser -  http://localhost:4200/
 
 Update the below code and re-run the npm start
