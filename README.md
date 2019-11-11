@@ -6,10 +6,15 @@ npm start
 open browser -  http://localhost:4200/
 
 Update the below code and re-run the npm start
+
 Angular-6-Progress-Bar-Demo/blob/master/package.json
+
 Angular-6-Progress-Bar-Demo/blob/master/angular.json
+
 Angular-6-Progress-Bar-Demo/tree/master/src/app
+
 Angular-6-Progress-Bar-Demo/blob/master/src/styles.scss
+
 
 
 # Demo
